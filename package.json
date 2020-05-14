@@ -1,0 +1,32 @@
+{
+  "name": "px-tarnsfer",
+  "version": "0.0.1",
+  "description": "px2 px2rem rem2px px transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./"
+  },
+  "bin": {
+    "pxtransfer": "./bin/pxtransfer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhaidi/px-transfer.git"
+  },
+  "keywords": [
+    "px2",
+    "px2rem",
+    "rem2px",
+    "px",
+    "transfer"
+  ],
+  "author": "jinhaidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhaidi/px-transfer/issues"
+  },
+  "homepage": "https://github.com/Jhaidi/px-transfer#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
