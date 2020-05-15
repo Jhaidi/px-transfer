@@ -1,13 +1,13 @@
 {
   "name": "px-tarnsfer",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "px2 px2rem rem2px px transfer",
   "main": "index.js",
   "scripts": {
     "test": "node ./"
   },
   "bin": {
-    "pxtransfer": "./bin/pxtransfer.js"
+    "px-transfer": "./bin/pxtransfer.js"
   },
   "repository": {
     "type": "git",
